@@ -1,0 +1,199 @@
+ /* Réinitialisation des styles par défaut */
+  .container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin-top: 100px;
+    }
+
+.logo-doctolib, .logo-doctolib.logo-doctolib-white {
+    background-image: url("https://www.doctolib.fr/webpack/f35a8b925b7443e209a9.svg");
+}
+
+element.style {
+}
+.logo-doctolib, .logo-doctolib.logo-doctolib-white {
+    background-image: url(/webpack/f35a8b9….svg);
+}
+.logo-doctolib {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 95px auto;
+    display: inline-block;
+    height: 50px;
+    width: 95px;
+}
+
+button {
+  padding: 10px 20px;
+  
+  background-color: #107aca;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  /* Ajoutez d'autres styles personnalisés selon vos besoins */
+}
+[data-theme=doctolib2023][data-theme=doctolib2023] .dl-homepage-hero {
+    border-radius: 0 0 24px 24px;
+}
+[data-theme=doctolib2023][data-theme=doctolib2023] .dl-blue-bg, [data-theme=doctolib2023][data-theme=doctolib2023] .dl-menu-header, [data-theme=doctolib2023][data-theme=doctolib2023] .dl-nav-bar-subtitle, [data-theme=doctolib2023][data-theme=doctolib2023] .dl-signin, [data-theme=doctolib2023][data-theme=doctolib2023] .home-form-top-new-design {
+    background-color: var(--oxygen-core-blue-090)!important;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+.dl-homepage-hero {
+    padding: 0 64px;
+    position: relative;
+}
+.h-\[472px\] {
+    height: 472px;
+}
+ .boutonGauche {
+	   background-color: #107aca;
+
+    left:50px; /* Vous pouvez ajuster la valeur selon votre besoin */
+    top: 0%; /* Positionnement vertical au milieu de l'écran */
+    padding: 10px 20px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding:0;
+}
+/* Styles généraux */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color:#fff;
+}
+.search-container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    .search-container h1 {
+      font-size: 24px;
+      margin-bottom: 20px;
+    }
+    .search-container .form-control {
+      height: 44px;
+      font-size: 16px;
+      border-radius: 4px;
+      box-shadow: none;
+    }
+    .search-container .btn-primary {
+      height: 44px;
+      font-size: 16px;
+      border-radius: 4px;
+    }
+con{
+	margin-left: 20px;
+}
+   .search-container {
+      background-color: #f8f9fa;
+      padding: 20px;
+    }
+    .search-container input[type=text] {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+    }
+    .search-container select {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+    }
+    .search-container button {
+      background-color: #0275d8;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      cursor: pointer;
+      width: 100%;
+    }
+    .search-container button:hover {
+      opacity: 0.8;
+    }
+
+ h2{color:white; }
+
+header {
+	    background-image:url("https://www.doctolib.fr/webpack/ef8ba4ac6e66c2d26bfb.png");
+background-size: contain;
+background-position: 100% 100%;
+background-repeat: no-repeat;
+    background-color: #107aca;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #f2f2f2;
+}
+
+.features {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.feature {
+    flex-basis: 30%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #107aca;
+    color: #fff;
+}
+ 
